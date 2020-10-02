@@ -1,0 +1,45 @@
+.topnav {
+  background-color: skyblue;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: lightblue;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+<div class="container">
+  <div class="center">
+    <button>Book Now</button>
+  </div>
+element.style {
+}
+.btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button {background-color: #4CAF50;}
